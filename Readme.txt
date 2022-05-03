@@ -11,7 +11,7 @@ now important all the email gmail.txt
 command 
 -----------------------
 
-git clone https://github.com/kartik_i/gmail_filter.git
+git clone https://github.com/dark3510/gmail_filter.git
 cd gmail_filter
 python3 checker.py
 
